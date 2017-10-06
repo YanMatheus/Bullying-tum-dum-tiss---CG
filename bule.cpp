@@ -1,6 +1,7 @@
 //
 // @Author: Yan Matheus Goncalves Fontao
 // @Github: https://github.com/YanMatheus
+//
 #include <GL/glut.h>
 
 GLfloat angle, fAspect;
